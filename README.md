@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+推荐算法工程师 | 多模态AI专家 | 强化学习实践者
+🤖 AI算法专家
+⚡ 强化学习大师
+🎯 推荐系统优化
+🔬 多模态研究
+🏆 RoboCup亚军
+🎮 策略游戏高手
+📊 数据科学达人
+💡 创新思维者
 <!--
 **Get-David/Get-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
