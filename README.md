@@ -1,25 +1,9 @@
-<div align="right">
-  <a href="./README-zh.md"><strong>🇨🇳 中文</strong></a>
-</div>
-
-# Hi there 👋, I'm David
-## Recommendation Algorithm Engineer | Multimodal AI Expert | Reinforcement Learning Practitioner
-
-🤖 AI Algorithm Expert &nbsp; ⚡ Reinforcement Learning Master &nbsp; 🎯 Recommendation System Optimization &nbsp; 🔬 Multimodal Research &nbsp; 🏆 RoboCup Runner-up &nbsp; 🎮 Strategy Game Enthusiast &nbsp; 📊 Data Science Aficionado &nbsp; 💡 Innovative Thinker
+[中文](./README-zh.md)
 
 ---
 
-<!--
-**Get-David/Get-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm David
 
-Here are some ideas to get you started:
+## Recommendation Algorithm Engineer | Multimodal AI Expert | Reinforcement Learning Practitioner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI Algorithm Expert ⚡ Reinforcement Learning Master 🎯 Recommendation System Optimization 🔬 Multimodal Research 🏆 RoboCup Runner-up 🎮 Strategy Game Enthusiast 📊 Data Science Aficionado 💡 Innovative Thinker
