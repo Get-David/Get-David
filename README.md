@@ -8,5 +8,5 @@
 
 🤖 AI Algorithm Expert                                   ⚡ Reinforcement Learning Master   
 🎯 Recommendation System Optimization                    🔬 Multimodal Research     
-🏆 RoboCup Runner-up                                     🎮 Strategy Game Enthusiast   
+🏆 RoboCup Champion                                      🎮 Strategy Game Enthusiast   
 📊 Data Science Aficionado                               💡 Innovative Thinker  
