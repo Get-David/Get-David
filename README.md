@@ -7,4 +7,4 @@
 | 🤖 AI Algorithm Engineer | ⚡ Reinforcement Learning Practitioner |
 | 🎯 Recommendation Systems | 🔬 Multimodal AI Research |
 | 🏆 RoboCup Champion | 🎮 Strategy Game Enthusiast |
-| 📊 Data Science Enthusiast | 💡 Innovation-Driven Thinker |
+| 📊 Data Science Engineer | 💡 Innovation-Driven Thinker |
